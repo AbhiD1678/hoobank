@@ -8,11 +8,16 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="1" alt="project-screenshot" width="400" height="400/">
+<img src="src/assets/Capture.PNG" alt="project-screenshot" />
 
-<img src="2" alt="project-screenshot" width="400" height="400/">
+<img src="src/assets/1.PNG" alt="project-screenshot" />
 
-<img src="3" alt="project-screenshot" width="400" height="400/">
+<img src="src/assets/2.PNG" alt="project-screenshot" />
+
+<img src="src/assets/3.PNG" alt="project-screenshot" />
+
+<img src="src/assets/4.PNG" alt="project-screenshot" />
+<img src="src/assets/5.PNG" alt="project-screenshot" />
 
   
   
